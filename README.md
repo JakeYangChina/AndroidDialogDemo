@@ -90,6 +90,9 @@
 作用：释放所有内存，防止内存泄漏<br>建议在程序退出时调用，或最后一个页面关闭时调用
 
 <br>
+<hr>
+<br>
+
 ## API说明：CoreDialog类，主要是用于显示对话框
 #### ```public CoreDialogBuilder setTitle(String title)```
 作用：设置标题<br>当没有指定自定义的布局文件时才会生效
