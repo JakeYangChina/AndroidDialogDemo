@@ -93,7 +93,7 @@
 <hr>
 <br>
 
-## API说明：CoreDialog类，主要是用于显示对话框
+## API说明：CoreDialogBuilder类，主要是用于显示对话框
 #### ```public CoreDialogBuilder setTitle(String title)```
 作用：设置标题<br>当没有指定自定义的布局文件时才会生效
 #### ```public CoreDialogBuilder setMessage(String message)```
